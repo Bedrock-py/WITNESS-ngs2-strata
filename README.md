@@ -29,3 +29,7 @@ docker run -p 81:81 -d witness-ngs2-strata
 Assuming no errors, you should be able to view Strata in a web browser at http://localhost:81/ . Example of a successful installation below:
 
 ![image](https://user-images.githubusercontent.com/116683/30996493-3fc095fc-a48f-11e7-9e09-5912deb5f587.png)
+
+Selecting NGS2 WITNESS Experiment 1 transitions the application to showing the workflow for Experiment 1. This experiment has been run already through the system. By using the scroll wheel on the mouse, the experiment workflow can be zoomed out. The workflow can be explored by clicking and dragging around the workflow map.
+
+![image](https://user-images.githubusercontent.com/116683/30996706-b3981328-a490-11e7-87a6-9793b30f0608.png)
